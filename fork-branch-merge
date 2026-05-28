@@ -3,3 +3,9 @@ git clone https://github.com/Rushank1484/Webwright.git
 cd Webwright
 git remote add upstream https://github.com/Rushank1484/Webwright.git
 git checkout -b feature-branch
+git commit -m "README.md Updated"
+git branch
+git push origin main
+git remote -v
+git push --set-upstream origin feature-branch
+git branch -vv
