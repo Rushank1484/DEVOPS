@@ -1,0 +1,53 @@
+COMMON BASIC STEPS FOR EVERY ASP.NET PRACTICAL
+
+1. Open Visual Studio
+2. Click “Create a new project”
+3. Select:
+    ASP.NET Web Application (.NET Framework)
+4. Click Next
+5. Give Project Name
+    Example:
+    AWT_LINQ
+    AWT_MVC
+6. Click Create
+7. Choose Template:
+
+* Web Forms → for normal ASP.NET practicals
+* MVC → for MVC practical
+
+8. Click Create
+9. Right Click Project in Solution Explorer
+10. Add required files:
+
+* Add → Web Form
+* Add → Class
+* Add → Controller
+* Add → View
+
+11. Write/Paste code
+12. Save files
+    Shortcut:
+    Ctrl + S
+13. Run project
+    Shortcut:
+    Ctrl + F5
+14. Browser opens and shows output
+15. Check output properly
+16. If page not opening:
+    Right Click page → Set As Start Page
+17. Stop project after completion
+
+COMMON FILES
+
+* .aspx → Web page
+* .cs → C# backend code
+* Web.config → Configuration
+* .sln → Complete project file
+
+COMMON CONTROLS
+
+* TextBox → Input
+* Label → Display text
+* Button → Click action
+* GridView → Show table
+* DropDownList → Select options
